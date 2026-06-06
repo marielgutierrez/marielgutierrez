@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m a junior developer in training with a Technical Degree in Systems. <br>I'm a Engineering Student. I’m passionate about programming and currently taking my first steps into the IT industry. <br>I want to grow as a Back-End Developer, but I’m also open to Full Stack or Front-End opportunities. <br><br>📚 I’m committed to continuous learning, taking on new challenges, and contributing with value-driven solutions in every project.<br>
+I’m a fullstack developer with a Technical Degree in Systems. <br>I'm a Engineering Student. I’m passionate about programming and currently taking my first steps into the IT industry. <br><br>📚 I’m committed to continuous learning, taking on new challenges, and contributing with value-driven solutions in every project.<br>
 
 ## 🌐 Socials:
 
